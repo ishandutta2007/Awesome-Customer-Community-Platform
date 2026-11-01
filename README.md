@@ -1,56 +1,56 @@
 # Awesome-Customer-Community-Platform
 
-# Awesome-Customer-Community-Platform
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Customer Community Platforms Banner" width="100%" />
+</p>
 
-**Top Customer Community Platform (Opensource) 🌟 Star if you like it! 🌟**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Community-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Community-Platform?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Community-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Community-Platform?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
+## 🌟 Overview: Top Customer Community Platforms
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+> **A curated, battle-tested index of commercial SaaS products, enterprise community platforms, and open-source discussion engines.**  
+> Focused on branded customer forums, developer hubs, real-time community chat, peer-to-peer support, and self-hosted collaboration suites.
 
-*Focused on Branded Forums, Member Hubs, Real-Time Discussion & Self-Hosted Community Engines*
+**Last updated:** November 2026 🚀
 
-**Last updated: November 2026**
+Customer community platforms empower organizations to foster brand loyalty, deflect customer support tickets through peer-to-peer resolution, gather user product feedback, and run creator memberships. Whether your organization requires a SOC-2 compliant enterprise social care suite with AI moderation or an open-source self-hosted forum that provides 100% data sovereignty, this repository compiles verified pricing models, free tier limits, and GitHub popularity metrics.
 
+---
 
+## 📑 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Customer Community Platforms**. These tools enable organizations to build branded spaces for customer discussion, peer support, idea exchange, and member engagement—from fully managed enterprise platforms with AI moderation and member directories to self-hosted forum engines that give communities complete ownership of their data and member relationships.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS & Commercial Hosted Platforms](#-saas--commercial-hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
+- [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 
+---
 
+## 📊 Sector Overview & Market Dynamics
 
-**Examples** include Khoros Communities, Higher Logic Vanilla, Bettermode, Discourse, Circle, Mighty Networks, CMNTY, Atlassian Community, and inSided (the category leaders in commercial and open-source space).
+The global online customer community platform sector is currently estimated at **$1.5B to $2.2B** (projected to reach over $3.7B–$7B by the mid-2030s at a healthy ~10–13% CAGR), expanding to **$13B–$14B+** when broader enterprise social networks and omnichannel customer engagement suites are incorporated. 
 
+The market is **moderately fragmented**—distinct customer requirements prevent a winner-take-all monopoly:
+* **Enterprise Customer Care & Support Deflection:** Platforms like **Khoros** and **Gainsight Customer Communities (inSided)** serve large enterprises with dedicated CRM and ticket workflows.
+* **Creator Hubs & Digital Memberships:** Modern platforms like **Circle** and **Mighty Networks** dominate cohort courses, events, and community monetization.
+* **Independent & Self-Hosted Forum Engines:** **Discourse**, **Flarum**, and **NodeBB** represent the gold standard for developer communities and brand discussions seeking data sovereignty.
 
+---
 
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosted forums, community platforms, and open moderation infrastructure. **Critical note**: The open-source community platform landscape is exceptionally mature—**Discourse** is the industry standard, now with a **genuinely free hosted plan** (unlimited members, unlimited chat, two staff seats) launched in July 2026 . **Flarum** and **NodeBB** provide lightweight and real-time alternatives. No open-source project matches Khoros's enterprise social suite or Circle's creator business platform, but for community discussion itself, the open-source options are production-proven and increasingly accessible.
+## 💼 SaaS & Commercial Hosted Platforms
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The global online customer community platform sector is estimated at **$1.5B to $2.2B** (projected to reach over $3.7B–$7B by the mid-2030s at a ~10–13% CAGR), expanding to **$13B–$14B+** when broader enterprise social networks and engagement suites are included. The market is **moderately fragmented**—divided between enterprise customer care suites (Khoros, Gainsight), creator/digital membership platforms (Circle, Mighty Networks), and dedicated forum engines (Discourse, Higher Logic Vanilla), preventing a single winner-take-all monopoly due to distinct vertical needs.
-
-
-
-## SaaS/Hosted Platforms
+The following SaaS and managed customer community platforms are sorted in **descending order by company scale** (estimated valuation / annual recurring revenue).
 
 | Platform | Starting Price | Free Tier / Trial Limits | Company Size (Valuation / Revenue) | Description & Key Strengths |
 | :--- | :--- | :--- | :--- | :--- |
@@ -63,94 +63,116 @@ The global online customer community platform sector is estimated at **$1.5B to 
 | **[CMNTY](https://www.cmnty.com/)** | **$499/month** (Base plan per feature/project tier) | **No permanent free tier**; **Free trial / preview on request** (access granted within 24 hours via sales registration for customized pilot) | **Private / Subsidiary** (Acquired by MarketResponse Group; consolidated enterprise) | Specialized customer insights and collaborative market research community platform. |
 | **[Bettermode](https://bettermode.com/)** | **$149/month** (Starter plan, billed annually; $199/mo billed monthly) | **14-day free trial** on paid plans (Starter/Growth, no credit card required); limited free tier (up to 100 members, 20 spaces, 1 GB storage) | **~$3.1M ARR** (Venture-backed startup) | Modular all-in-one customer community platform with customizable spaces, discussions, and widget integrations. |
 
-> *Note on Atlassian Community: While frequently referenced in community design discussions, Atlassian Community is Atlassian's own brand forum rather than a commercial software product available for purchase, and is therefore excluded from vendor software comparisons.*
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Discourse](https://github.com/discourse/discourse)**
-
-  **The industry standard self-hosted community forum** (GPL-2.0) — **the most mature and battle-tested open-source forum platform**, used by Docker, Figma, Mozilla, Rust, and BBC. **Features**: Trust levels and badges; built-in chat; SSO via SAML, OIDC, LDAP, Google, GitHub; Akismet anti-spam; email-in; 200+ plugins. **Tech stack**: Ruby on Rails, PostgreSQL, Redis. **Deploy**: Self-hosted (Docker) or Discourse Cloud. **Trade-off**: **Heavy resource requirements** (2 GB minimum, 4 GB recommended); SMTP mandatory. **Best for**: established communities needing robust moderation and SSO—the default choice for serious open-source communities. **Note**: the **free hosted plan** (unlimited members, 2 staff, subdomain) removes infrastructure burden entirely .
-
-
-
-- **[Flarum](https://github.com/flarum/flarum)**
-
-  **Modern, lightweight forum software** (MIT) — **the cleanest, fastest self-hosted forum option** on a PHP stack. **Features**: Fast single-page-app frontend; "everything is an extension" architecture; **512 MB RAM minimum**. **Tech stack**: PHP (Laravel), MySQL. **Deploy**: Self-hosted (Docker Compose). **Trade-off**: Smaller extension catalog than Discourse; no built-in chat; single-level threading. **Best for**: small to medium communities wanting a clean modern look without Discourse's overhead.
-
-
-
-- **[NodeBB](https://github.com/NodeBB/NodeBB)**
-
-  **Real-time Node.js forum** (GPL-3.0) — **the real-time-first forum platform**, built around WebSockets for instant updates. **Features**: Real-time notifications and presence; reputation/karma; built-in chat; REST and WebSocket APIs; multiple database backends (MongoDB, PostgreSQL, Redis). **Tech stack**: Node.js, MongoDB/Redis. **Deploy**: Self-hosted. **Trade-off**: MongoDB dependency; UI less polished than Discourse or Flarum. **Best for**: gaming communities and live Q&A spaces valuing immediacy.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Lemmy** — Federated link aggregator and forum (AGPL-3.0). ActivityPub federation for cross-instance communities. **Note**: Federation-first, not branded customer communities. **Best for**: decentralized, federated discussion.
-
-- **Forem** — Open-source community platform (AGPL-3.0). Powers DEV Community. **Note**: Content-focused rather than support-focused. **Best for**: developer communities and content-driven forums.
-
-
-
-**Frameworks for building custom systems**: Choose **Discourse free hosted** for zero-cost launch with unlimited members , **Flarum** for lightweight PHP hosting, and **NodeBB** for real-time discussion—each serves a distinct community profile. **None of these match Khoros's enterprise social suite or Circle's creator business platform**, but for forum discussion itself, the open-source options are production-proven and increasingly accessible.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Community platforms handling member data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls for member profiles and discussions.
-
-- **The "self-hosted forum" vs. "hosted community platform" vs. "creator business platform" vs. "enterprise social suite" distinction is critical.** **Discourse (self-hosted), Flarum, and NodeBB** are **self-hosted forums**—you own the infrastructure and data. **Discourse (hosted free plan)** is a **managed hosted service**—zero infrastructure, unlimited members, 2 staff seats . **Bettermode, Circle, Mighty Networks, CMNTY, and inSided** are **hosted platforms**—they manage infrastructure but lock you into pricing tiers. **Higher Logic Vanilla and Khoros** are **enterprise platforms**—community is one module in a broader suite. **Choose based on whether you need to own your forum, want a managed platform, or need enterprise integration.**
-
-- **Discourse's free hosted plan is a category-changing development.** Launched July 2026, it offers **unlimited members, unlimited chat, 2 staff seats, and a free subdomain** with zero infrastructure . **For teams that previously avoided Discourse due to server costs, this removes the barrier entirely.**
-
-- **Khoros is enterprise-only with six-figure commitments.** No published pricing, no free tier, no trial; median contract **$164,649/year** . **Do not evaluate unless prepared for enterprise procurement.**
-
-- **Higher Logic Vanilla pricing varies wildly by source.** Vendr benchmarks **$30K–$80K/year** for 10K members on standalone Vanilla ; ITQlick lists **$599/month** Standard up to 1,000 users . **Confirm which product (standalone Vanilla vs. Higher Logic Engagement bundle) you are evaluating.**
-
-- **Bettermode pricing data conflicts.** Software Advice lists **$399/month** ; Toolradar lists **$149/month** . **Verify current pricing directly with the vendor.**
-
-- **Atlassian does not sell a community platform.** The Atlassian Community is their own forum, free to join, not a purchasable product . **Do not list it as an evaluable option.**
-
-- Pricing opacity varies. Circle, Mighty Networks, and CMNTY publish tiered pricing. Discourse publishes free and paid hosted plans. Higher Logic and Vanilla have conflicting public data. Khoros and inSided require sales contact. **Validate with direct vendor conversations against your member count and feature needs.**
-
-- Self-hosted open-source solutions require proper infrastructure (PostgreSQL/Redis for Discourse, MySQL for Flarum, MongoDB for NodeBB), security hardening, and ongoing maintenance. **Community data includes member PII and private discussions**—ensure your deployment meets your organization's privacy and security requirements before launching.
-
-
+> *📌 Note on Atlassian Community: While frequently referenced in community design discussions, Atlassian Community is Atlassian's own brand forum rather than a commercial software product available for purchase, and is therefore excluded from vendor software comparisons.*
 
 ---
 
+## 🔓 Open-Source GitHub Projects
 
+Open-source community software gives teams 100% data ownership, custom branding freedom, self-hosting flexibility, and privacy compliance. The projects below are sorted in **descending order by GitHub star count**.
 
-**Made for community managers, developer relations teams, and organizations building transparent community platform solutions.**
+### 1. **[Discourse](https://github.com/discourse/discourse)** [![GitHub stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers)
+- **License:** GPL-2.0 📜
+- **Tech Stack:** Ruby on Rails, PostgreSQL, Redis, Ember.js 🛠️
+- **Description:** The industry standard for modern community discussions and peer support, trusted by Figma, Docker, Mozilla, OpenAI, and Rust. Features progressive trust levels, automated anti-spam (Akismet), dynamic tagging, rich markdown formatting, SSO integration (SAML, OAuth, OIDC), and an extensive ecosystem of hundreds of official plugins.
+- **Hosting Options:** Self-hosted via Docker container or official Discourse Cloud (including a permanently free tier for small teams).
 
-Let's make Customer Community Platforms more open, data-driven, and community-owned.
+### 2. **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)
+- **License:** GPL-3.0 📜
+- **Tech Stack:** Node.js, TypeScript, MongoDB 🛠️
+- **Description:** A powerhouse open-source communications platform and customer engagement engine. Built for organizations needing real-time customer channels, live-chat widgets for websites, team collaboration, end-to-end encryption, and omnichannel customer support ticketing.
+- **Hosting Options:** Self-hosted on Docker, Kubernetes, or managed cloud.
+
+### 3. **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)
+- **License:** AGPL-3.0 / Apache-2.0 📜
+- **Tech Stack:** Go, React, PostgreSQL/MySQL 🛠️
+- **Description:** Open-source platform for mission-critical collaboration, developer communities, and technical customer workflows. Combines real-time threaded chat, automated operational playbooks, and kanban-style project boards with strict security compliance.
+- **Hosting Options:** Self-hosted Linux binary/Docker, or enterprise private cloud.
+
+### 4. **[Zulip](https://github.com/zulip/zulip)** [![GitHub stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers)
+- **License:** Apache-2.0 📜
+- **Tech Stack:** Python (Django), TypeScript, PostgreSQL 🛠️
+- **Description:** Unique topic-based threading model that combines the immediacy of real-time group chat with the asynchronous structure of forum boards. Ideal for fast-moving customer communities, open-source project contributors, and global distributed teams.
+- **Hosting Options:** Docker, native Ubuntu/Debian installer, or Zulip Cloud.
+
+### 5. **[Forem](https://github.com/forem/forem)** [![GitHub stars](https://img.shields.io/github/stars/forem/forem?style=social&color=white)](https://github.com/forem/forem/stargazers)
+- **License:** AGPL-3.0 📜
+- **Tech Stack:** Ruby on Rails, PostgreSQL, Redis, Preact 🛠️
+- **Description:** The open-source platform powering the DEV Community and CodeNewbie. Purpose-built for high-volume content sharing, long-form articles, discussion threads, podcasts, community listings, and developer networks.
+- **Hosting Options:** Self-hosted on Linux/AWS, or containerized deployment.
+
+### 6. **[Flarum](https://github.com/flarum/flarum)** [![GitHub stars](https://img.shields.io/github/stars/flarum/flarum?style=social&color=white)](https://github.com/flarum/flarum/stargazers)
+- **License:** MIT 📜
+- **Tech Stack:** PHP, Mithril.js, MySQL/MariaDB 🛠️
+- **Description:** Delightfully simple, lightning-fast forum software built with a modular extension architecture. Requires minimal server resources (runs comfortably on 512MB RAM), offering infinite scrolling, floating composer, clean notification trays, and rapid setup.
+- **Hosting Options:** Lightweight self-hosting on standard LAMP/LEMP stacks, Composer, or Docker.
+
+### 7. **[NodeBB](https://github.com/NodeBB/NodeBB)** [![GitHub stars](https://img.shields.io/github/stars/NodeBB/NodeBB?style=social&color=white)](https://github.com/NodeBB/NodeBB/stargazers)
+- **License:** GPL-3.0 📜
+- **Tech Stack:** Node.js, Redis / MongoDB / PostgreSQL 🛠️
+- **Description:** Next-generation forum software utilizing instant WebSockets for real-time streaming notifications, live chat, reputation voting, and seamless mobile responsiveness. Provides extensive RESTful APIs and webhook support.
+- **Hosting Options:** Self-hosted Node.js runtime or managed hosting.
+
+### 8. **[Lemmy](https://github.com/LemmyNet/lemmy)** [![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=social&color=white)](https://github.com/LemmyNet/lemmy/stargazers)
+- **License:** AGPL-3.0 📜
+- **Tech Stack:** Rust, Actix, TypeScript, PostgreSQL 🛠️
+- **Description:** Federated link-aggregation and discussion platform powered by ActivityPub. Enables organizations and interest groups to run decentralized, federated communities that interconnect across the broader Fediverse.
+- **Hosting Options:** Docker Compose, Kubernetes, or native Rust deployment.
+
+### 9. **[HumHub](https://github.com/humhub/humhub)** [![GitHub stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers)
+- **License:** AGPL-3.0 📜
+- **Tech Stack:** PHP (Yii 2), MariaDB / MySQL 🛠️
+- **Description:** Flexible open-source social network kit and customer community portal. Includes member spaces, activity streams, member directories, file sharing, calendar events, polls, and an integrated modular marketplace.
+- **Hosting Options:** Standard PHP web server or Docker.
+
+### 10. **[WriteFreely](https://github.com/writefreely/writefreely)** [![GitHub stars](https://img.shields.io/github/stars/writefreely/writefreely?style=social&color=white)](https://github.com/writefreely/writefreely/stargazers)
+- **License:** AGPL-3.0 📜
+- **Tech Stack:** Go, SQLite / MySQL 🛠️
+- **Description:** Clean, distraction-free blogging and community publishing platform. Built for writer collectives, collaborative team documentation, and federated publishing using ActivityPub.
+- **Hosting Options:** Single lightweight Go binary, Docker, or managed cloud.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help keep this customer community ecosystem comprehensive and up to date:
+
+1. 🍴 **Fork the repository** on GitHub.
+2. 🌿 **Create a branch** for your feature or update (`git checkout -b add-platform-entry`).
+3. 📝 **Add or update entries** in `README.md` following the tabular format for SaaS platforms or the standardized list format for open-source tools.
+4. 💡 Ensure you include: platform name, official URL, pricing/license, key strengths, and valid GitHub repository link.
+5. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated repository saved you time evaluating customer community platforms, helped your team select the right architecture, or contributed to your project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** with colleagues and community managers.
+- ☕ **Buy us a coffee or sponsor ongoing maintenance:**  
+  👉 **[Sponsor on GitHub: https://github.com/sponsors/ishandutta2007](https://github.com/sponsors/ishandutta2007)**
+
+Your generous sponsorship directly supports continuous research, software benchmark tracking, and community resource curation! 🙏
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Customer-Community-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Customer-Community-Platform&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer & Compliance
+
+- This repository is a **community-curated index** created for educational, benchmarking, and architectural evaluation purposes.
+- All trademarks, service marks, and trade names are the property of their respective owners.
+- Customer community platforms process personally identifiable information (PII) and user-generated content. Organizations should ensure proper compliance with global privacy regulations (e.g., GDPR, CCPA/CPRA, SOC-2, and HIPAA) when handling member data.
+- Pricing metrics, plan tiers, and limits are subject to change by vendors; always verify directly with vendor sales and official product documentation.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for community architects, developer advocates, and community managers worldwide.</b>
+</p>
