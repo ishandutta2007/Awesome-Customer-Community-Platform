@@ -32,6 +32,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -42,61 +44,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global online customer community platform sector is estimated at **$1.5B to $2.2B** (projected to reach over $3.7B–$7B by the mid-2030s at a ~10–13% CAGR), expanding to **$13B–$14B+** when broader enterprise social networks and engagement suites are included. The market is **moderately fragmented**—divided between enterprise customer care suites (Khoros, Gainsight), creator/digital membership platforms (Circle, Mighty Networks), and dedicated forum engines (Discourse, Higher Logic Vanilla), preventing a single winner-take-all monopoly due to distinct vertical needs.
+
+
+
 ## SaaS/Hosted Platforms
 
+| Platform | Starting Price | Free Tier / Trial Limits | Company Size (Valuation / Revenue) | Description & Key Strengths |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Khoros Communities](https://khoros.com/)** | **$4,400/month** ($52,843/year entry benchmark; median contract ~$164,649/year) | **No free tier**; no self-serve free trial (custom enterprise sales demo on request) | **~$252M Revenue** (Acquired by IgniteTech; $307M+ raised previously) | Enterprise community platform within Khoros's omnichannel customer engagement and social care suite. |
+| **[inSided](https://www.insided.com/)** *(by Gainsight)* | **$1,250/month** ($15,000/year entry baseline benchmark) | **No free tier**; no self-serve free trial (guided demo & customized pilot via sales) | **$1.1B Valuation** / **~$230M Revenue** (Acquired by Gainsight / Vista Equity Partners) | Customer community platform purpose-built for B2B SaaS customer success, product adoption, and ticket deflection. |
+| **[Higher Logic Vanilla](https://www.higherlogic.com/)** | **$599/month** (Standard plan for up to 1,000 users; Enterprise packages ~$24,000–$80,000+/year) | **No free tier**; no self-serve trial (scheduled interactive demo available) | **$50M–$80M+ ARR** (Private equity-backed by JMI Equity & Level Equity) | Enterprise community forum engine tailored for customer support, associations, and integrated member engagement. |
+| **[Circle](https://circle.so/)** | **$89/month** (Professional plan, billed annually; $99/mo billed monthly) | **14-day free trial** of paid tiers (no credit card required upfront; up to 3 admins and core feature access) | **~$68M ARR** ($33.3M total venture funding; profitable) | Modern all-in-one community hub combining discussions, structured courses, live events, workflows, and payments. |
+| **[Discourse](https://www.discourse.org/)** *(Cloud)* | **$100/month** (Standard hosted plan; free self-hosting also available) | **Free plan forever**: **Unlimited members**, **unlimited chat**, **2 staff seats**, free `*.discourse.group` subdomain, preconfigured Discourse ID social login, automated updates/backups; **14-day free trial** for paid hosted tiers | **$10M–$35M+ ARR** (Profitable open-core enterprise; powers OpenAI, Figma, GitLab) | The gold standard open-core discussion platform, featuring robust trust levels, moderation tools, and extensible plugins. |
+| **[Mighty Networks](https://www.mightynetworks.com/)** | **$41/month** (Community plan, billed annually; Launch plan at $79/mo) | **14-day free trial** of Growth/Scale feature set (no credit card required upfront; full access to spaces, events, and moderation tools) | **~$200M Valuation** (Series B) / **~$8.6M ARR** ($66M total funding) | Community and membership platform designed for creator networks, cohort courses, events, and livestreaming. |
+| **[CMNTY](https://www.cmnty.com/)** | **$499/month** (Base plan per feature/project tier) | **No permanent free tier**; **Free trial / preview on request** (access granted within 24 hours via sales registration for customized pilot) | **Private / Subsidiary** (Acquired by MarketResponse Group; consolidated enterprise) | Specialized customer insights and collaborative market research community platform. |
+| **[Bettermode](https://bettermode.com/)** | **$149/month** (Starter plan, billed annually; $199/mo billed monthly) | **14-day free trial** on paid plans (Starter/Growth, no credit card required); limited free tier (up to 100 members, 20 spaces, 1 GB storage) | **~$3.1M ARR** (Venture-backed startup) | Modular all-in-one customer community platform with customizable spaces, discussions, and widget integrations. |
 
-
-- **[Discourse](https://www.discourse.org/)** (**Open-Core SaaS**)
-
-  **The industry standard community platform**, available as open-source self-hosted **or** a managed hosted service. **Free Plan (July 2026)**: **Unlimited members**, **unlimited chat**, **2 staff seats**, free subdomain (`yourname.discourse.group`), Discourse ID social logins preconfigured, automatic updates and backups . Paid hosted plans scale from there. **Free tier**: Yes, genuinely free hosted plan with unlimited members. **Best for**: any team wanting a real Discourse community with zero cost and zero infrastructure—**trade-off**: free plan uses a subdomain; custom domain and advanced features require paid hosting or self-hosting.
-
-
-
-- **[Bettermode](https://bettermode.com/)**
-
-  **All-in-one community platform** with spaces, discussions, events, and member management. **Pricing**: Third-party listings show starting at **$399/month** per Software Advice ; Toolradar lists a lower **$149/month** entry point . Bettermode historically offered a free tier (100 members, 20 spaces, 1 GB) but current pricing verification is inconsistent across sources. **Free tier**: Historically yes; verify current status with vendor. **Best for**: small teams wanting a hosted community with modern UI—**trade-off**: pricing data conflicts; confirm before committing.
-
-
-
-- **[Circle](https://circle.so/)**
-
-  **All-in-one community and digital business platform** with courses, events, and payments. **Pricing**: **Professional $89/month** (annual); **Business $199/month**; **$419/month** for higher tier; **Circle Plus** custom . **Free tier**: No free tier; trial available. **Best for**: creators and businesses wanting community, courses, and payments in one platform—**trade-off**: no free tier; AI credits metered separately.
-
-
-
-- **[Mighty Networks](https://www.mightynetworks.com/)**
-
-  **Community platform with courses, events, and memberships**. **Scale Plan**: **$179/month** (annual) or **$215/month** (monthly) includes **5 Hosts, 15 Moderators, 500 GB storage, 30 hours/month livestreaming** . **Free tier**: **14-day free trial of Growth Plan**—no permanent free tier . **Best for**: creators wanting a branded community with courses and livestreaming—**trade-off**: premium pricing for smaller communities.
-
-
-
-- **[Higher Logic Vanilla](https://www.higherlogic.com/)**
-
-  **Enterprise community forum** platform (Vanilla Forums acquired by Higher Logic in 2019). **Pricing**: **Custom quotes**; typical annual cost for **10,000 members: $30,000–$80,000** for standalone Vanilla; **$50,000–$120,000** for integrated Higher Logic Engagement bundles . ITQlick lists Standard at **$599/month** (up to 1,000 users) and Professional at **$1,499/month** . **Free tier**: **No free tier**; trial available . **Best for**: associations and membership organizations wanting community plus marketing automation—**trade-off**: enterprise sales process; no self-serve.
-
-
-
-- **[Khoros Communities](https://khoros.com/)**
-
-  **Enterprise community platform** within Khoros's social suite. **Pricing**: **Fully custom quotes**; **no pricing page, no free tier, no trial** . Vendr median contract **$164,649/year** (range $52,843–$258,854); implementation **$10,000–$100,000+** . Overage fees common ($50–$200+/unit) . **Free tier**: **None**. **Best for**: large enterprises needing integrated social care and community—**trade-off**: six-figure commitments; sales-only engagement.
-
-
-
-- **[CMNTY](https://www.cmnty.com/)**
-
-  **Community platform** for customer and member engagement. **Pricing**: Starting at **$499/month** per Software Advice . **Free tier**: Not specified. **Best for**: mid-market organizations wanting a dedicated community platform—**trade-off**: limited public pricing detail.
-
-
-
-- **[inSided](https://www.insided.com/)**
-
-  **Customer community platform** focused on support deflection and self-service. **Pricing**: **No public price** . **Free tier**: None. **Best for**: customer support communities wanting to reduce ticket volume—**trade-off**: quote-only.
-
-
-
-- **[Atlassian Community](https://community.atlassian.com/)** (**Not a vendor product**)
-
-  **Atlassian's own customer community** running on their platform. **Free to join** for members . **Note**: This is Atlassian's own community forum, **not a software product available for purchase**. Atlassian does not sell a standalone community platform. **Best for**: reference for community design and peer support—not an evaluable platform.
+> *Note on Atlassian Community: While frequently referenced in community design discussions, Atlassian Community is Atlassian's own brand forum rather than a commercial software product available for purchase, and is therefore excluded from vendor software comparisons.*
 
 
 
