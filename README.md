@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Customer-Community-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Community-Platform?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Community-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Community-Platform?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Community-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Community-Platform?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -69,63 +69,63 @@ The following SaaS and managed customer community platforms are sorted in **desc
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source community software gives teams 100% data ownership, custom branding freedom, self-hosting flexibility, and privacy compliance. The projects below are sorted in **descending order by GitHub star count**.
+Open-source community software gives teams 100% data ownership, custom branding freedom, self-hosting flexibility, and privacy compliance. The projects below are sorted in **descending order by GitHub Stars_Count**.
 
-### 1. **[Discourse](https://github.com/discourse/discourse)** [![GitHub stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers)
+### 1. **[Discourse](https://github.com/discourse/discourse)** [![GitHub_Stars](https://img.shields.io/github/stars/discourse/discourse?style=social&color=white)](https://github.com/discourse/discourse/stargazers)
 - **License:** GPL-2.0 📜
 - **Tech Stack:** Ruby on Rails, PostgreSQL, Redis, Ember.js 🛠️
 - **Description:** The industry standard for modern community discussions and peer support, trusted by Figma, Docker, Mozilla, OpenAI, and Rust. Features progressive trust levels, automated anti-spam (Akismet), dynamic tagging, rich markdown formatting, SSO integration (SAML, OAuth, OIDC), and an extensive ecosystem of hundreds of official plugins.
 - **Hosting Options:** Self-hosted via Docker container or official Discourse Cloud (including a permanently free tier for small teams).
 
-### 2. **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)
+### 2. **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)
 - **License:** GPL-3.0 📜
 - **Tech Stack:** Node.js, TypeScript, MongoDB 🛠️
 - **Description:** A powerhouse open-source communications platform and customer engagement engine. Built for organizations needing real-time customer channels, live-chat widgets for websites, team collaboration, end-to-end encryption, and omnichannel customer support ticketing.
 - **Hosting Options:** Self-hosted on Docker, Kubernetes, or managed cloud.
 
-### 3. **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)
+### 3. **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)
 - **License:** AGPL-3.0 / Apache-2.0 📜
 - **Tech Stack:** Go, React, PostgreSQL/MySQL 🛠️
 - **Description:** Open-source platform for mission-critical collaboration, developer communities, and technical customer workflows. Combines real-time threaded chat, automated operational playbooks, and kanban-style project boards with strict security compliance.
 - **Hosting Options:** Self-hosted Linux binary/Docker, or enterprise private cloud.
 
-### 4. **[Zulip](https://github.com/zulip/zulip)** [![GitHub stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers)
+### 4. **[Zulip](https://github.com/zulip/zulip)** [![GitHub_Stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers)
 - **License:** Apache-2.0 📜
 - **Tech Stack:** Python (Django), TypeScript, PostgreSQL 🛠️
 - **Description:** Unique topic-based threading model that combines the immediacy of real-time group chat with the asynchronous structure of forum boards. Ideal for fast-moving customer communities, open-source project contributors, and global distributed teams.
 - **Hosting Options:** Docker, native Ubuntu/Debian installer, or Zulip Cloud.
 
-### 5. **[Forem](https://github.com/forem/forem)** [![GitHub stars](https://img.shields.io/github/stars/forem/forem?style=social&color=white)](https://github.com/forem/forem/stargazers)
+### 5. **[Forem](https://github.com/forem/forem)** [![GitHub_Stars](https://img.shields.io/github/stars/forem/forem?style=social&color=white)](https://github.com/forem/forem/stargazers)
 - **License:** AGPL-3.0 📜
 - **Tech Stack:** Ruby on Rails, PostgreSQL, Redis, Preact 🛠️
 - **Description:** The open-source platform powering the DEV Community and CodeNewbie. Purpose-built for high-volume content sharing, long-form articles, discussion threads, podcasts, community listings, and developer networks.
 - **Hosting Options:** Self-hosted on Linux/AWS, or containerized deployment.
 
-### 6. **[Flarum](https://github.com/flarum/flarum)** [![GitHub stars](https://img.shields.io/github/stars/flarum/flarum?style=social&color=white)](https://github.com/flarum/flarum/stargazers)
+### 6. **[Flarum](https://github.com/flarum/flarum)** [![GitHub_Stars](https://img.shields.io/github/stars/flarum/flarum?style=social&color=white)](https://github.com/flarum/flarum/stargazers)
 - **License:** MIT 📜
 - **Tech Stack:** PHP, Mithril.js, MySQL/MariaDB 🛠️
 - **Description:** Delightfully simple, lightning-fast forum software built with a modular extension architecture. Requires minimal server resources (runs comfortably on 512MB RAM), offering infinite scrolling, floating composer, clean notification trays, and rapid setup.
 - **Hosting Options:** Lightweight self-hosting on standard LAMP/LEMP stacks, Composer, or Docker.
 
-### 7. **[NodeBB](https://github.com/NodeBB/NodeBB)** [![GitHub stars](https://img.shields.io/github/stars/NodeBB/NodeBB?style=social&color=white)](https://github.com/NodeBB/NodeBB/stargazers)
+### 7. **[NodeBB](https://github.com/NodeBB/NodeBB)** [![GitHub_Stars](https://img.shields.io/github/stars/NodeBB/NodeBB?style=social&color=white)](https://github.com/NodeBB/NodeBB/stargazers)
 - **License:** GPL-3.0 📜
 - **Tech Stack:** Node.js, Redis / MongoDB / PostgreSQL 🛠️
 - **Description:** Next-generation forum software utilizing instant WebSockets for real-time streaming notifications, live chat, reputation voting, and seamless mobile responsiveness. Provides extensive RESTful APIs and webhook support.
 - **Hosting Options:** Self-hosted Node.js runtime or managed hosting.
 
-### 8. **[Lemmy](https://github.com/LemmyNet/lemmy)** [![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=social&color=white)](https://github.com/LemmyNet/lemmy/stargazers)
+### 8. **[Lemmy](https://github.com/LemmyNet/lemmy)** [![GitHub_Stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=social&color=white)](https://github.com/LemmyNet/lemmy/stargazers)
 - **License:** AGPL-3.0 📜
 - **Tech Stack:** Rust, Actix, TypeScript, PostgreSQL 🛠️
 - **Description:** Federated link-aggregation and discussion platform powered by ActivityPub. Enables organizations and interest groups to run decentralized, federated communities that interconnect across the broader Fediverse.
 - **Hosting Options:** Docker Compose, Kubernetes, or native Rust deployment.
 
-### 9. **[HumHub](https://github.com/humhub/humhub)** [![GitHub stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers)
+### 9. **[HumHub](https://github.com/humhub/humhub)** [![GitHub_Stars](https://img.shields.io/github/stars/humhub/humhub?style=social&color=white)](https://github.com/humhub/humhub/stargazers)
 - **License:** AGPL-3.0 📜
 - **Tech Stack:** PHP (Yii 2), MariaDB / MySQL 🛠️
 - **Description:** Flexible open-source social network kit and customer community portal. Includes member spaces, activity streams, member directories, file sharing, calendar events, polls, and an integrated modular marketplace.
 - **Hosting Options:** Standard PHP web server or Docker.
 
-### 10. **[WriteFreely](https://github.com/writefreely/writefreely)** [![GitHub stars](https://img.shields.io/github/stars/writefreely/writefreely?style=social&color=white)](https://github.com/writefreely/writefreely/stargazers)
+### 10. **[WriteFreely](https://github.com/writefreely/writefreely)** [![GitHub_Stars](https://img.shields.io/github/stars/writefreely/writefreely?style=social&color=white)](https://github.com/writefreely/writefreely/stargazers)
 - **License:** AGPL-3.0 📜
 - **Tech Stack:** Go, SQLite / MySQL 🛠️
 - **Description:** Clean, distraction-free blogging and community publishing platform. Built for writer collectives, collaborative team documentation, and federated publishing using ActivityPub.
